@@ -180,6 +180,17 @@
                         </LinearLayout>
                     </FrameLayout>
                 </LinearLayout>
+                <com.gathin.tvhome.PrayerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:maxLines="2"
+    android:includeFontPadding="false"
+    android:textColor="#CCFFFFFF"
+    android:textSize="14sp"
+    android:fontFamily="@font/outfit"
+    android:fontVariationSettings="'wght' 400"
+    android:letterSpacing="0.02" />
             </LinearLayout>
 
             <LinearLayout
